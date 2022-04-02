@@ -22,6 +22,7 @@
 - [AdGuard Social Media filter (Optimized)](https://filters.adtidy.org/extension/ublock/filters/4_optimized.txt)
 - [AdGuard Social media Plus](https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/social-plus.txt)
 - [AdGuard Tracking Protection filter (Optimized)](https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt)
+- [AdVoid.core](https://raw.githubusercontent.com/igorskyflyer/ad-void/main/AdVoid.Core.txt)
 - [Anti Anti-adblock Enhancer for AdGuard](https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt)
 - [Anti popads.net](https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt)
 - [Anti-Facebook List](https://www.fanboy.co.nz/fanboy-antifacebook.txt)
