@@ -1,10 +1,14 @@
+- [➗ Actually Legitimate URL Shortener Tool](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt)
 - [⚙️ Dandelion Sprout's Annoyances List](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList)
 - [💊 Dandelion Sprout's Anti-Malware List](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt)
 - [🚪 Browse websites without logging in](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt)
 - [🔒 Privacy Essentials](https://raw.githubusercontent.com/yokoffing/filterlists/main/PrivacyEssentials.txt)
 - [🛠️ yokoffing's Annoyance List](https://raw.githubusercontent.com/yokoffing/filterlists/main/AnnoyanceList)
 - [0131 Block List](https://austinhuang.me/0131-block-list/list.txt)
-- [1Hosts (Lite)](https://o0.pages.dev/Lite/adblock.txt)
+- [1Hosts (mini)](https://o0.pages.dev/mini/adblock.txt) - mini - Level 1: unblocks a number of ads & trackers for in-app rewards, anti-AdBlock, etc.
+- [1Hosts (Lite)](https://o0.pages.dev/Lite/adblock.txt) - Lite - Level 2: set & forget, favours user experience (UX) over adblocking, balanced, recommended.
+- [1Hosts (Pro)](https://o0.pages.dev/Pro/adblock.txt) - Pro - Level 3: prioritizes safety & privacy (adblocking) over UX e.g blocks graph.facebook.com.
+- [1Hosts (Xtra)](https://o0.pages.dev/Xtra/adblock.txt) - Xtra - Level 4: extremly aggressive & restrictive. Do not use unless you know what you're doing!
 - [AakList (Anti-Adblock Killer)](https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt)
 - [ABP X Files](https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt)
 - [ABPindo](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt)
@@ -38,22 +42,45 @@
 - [Dagoll's Filters List](https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt)
 - [Dandelion Sprout's AdGuard Home Compilation List](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList.txt)
 - [EasyList without element hiding rules](https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt)
-- [Energized Blu Go Protection](https://block.energized.pro/bluGo/formats/filter)
-- [Energized IP List Extension](https://block.energized.pro/extensions/ips/formats/list.txt)
-- [Energized Regional Extension](https://block.energized.pro/extensions/regional/formats/filter)
+- [Energized Spark](https://block.energized.pro/spark/formats/filter) - True lightweight protection.
+- [Energized BluGo](https://block.energized.pro/bluGo/formats/filter) - Mid range lightweight protection-go!
+- [Energized Blu](https://block.energized.pro/blu/formats/filter) - Mid range lightweight protection.
+- [Energized Basic](https://block.energized.pro/basic/formats/filter) - Balanced protection.
+- [Energized Porn](https://block.energized.pro/porn/formats/filter) - Pornware blocking.
+- [Energized Ultimate](https://block.energized.pro/ultimate/formats/filter) - Flagship protection.
+- [Energize Unified](https://block.energized.pro/unified/formats/filter) - Flagship protection with pornware blocking.
+- [Energized extension/IPs](https://block.energized.pro/extensions/ips/formats/list.txt) - Malicious IP protection.
+- [Energized extension/Porn Lite](https://block.energized.pro/extensions/porn-lite/formats/filter) - Lite pornware blocking.
+- [Energized extension/Social](https://block.energized.pro/extensions/social/formats/filter) - Block social apps and sites.
+- [Energized extension/Regional](https://block.energized.pro/extensions/regional/formats/filter) - Regional annoyance blocking.
+- [Energized extension/Xtreme](https://block.energized.pro/extensions/xtreme/formats/filter) - Privacy protection at its best.
 - [facebook annoyances blocker](https://hg.adblockplus.org/facebookfilters/raw-file/default/fb_annoyances_full.txt)
 - [Fanboy's Notifications Blocking List](https://easylist-downloads.adblockplus.org/fanboy-notifications.txt)
 - [Fuck Fuckadblock](https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt)
 - [GoodbyeAds-AdBlock-Filter](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt)
+- [GoodbyeAds-YouTube-AdBlock-Filter](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt)
 - [Lightswitch05's ads-and-tracking-extended.txt](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt)
+- [Lightswitch05's amp-hosts-extended.txt](https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt)
+- [Lightswitch05's dating-services-extended.txt](https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt)
+- [Lightswitch05's facebook-extended.txt](https://www.github.developerdan.com/hosts/lists/facebook-extended.txt)
+- [Lightswitch05's hate-and-junk-extended.txt](https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt)
+- [Lightswitch05's tracking-aggressive-extended.txt](https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt)
 - [My filters list](https://raw.githubusercontent.com/gwarser/filter-lists/master/my-filters.txt)
 - [NoCoin Filter List](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt)
 - [NoTrack Malware Blocklist](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt)
 - [NoTrack Tracker Blocklist](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt)
 - [Notracking blocklist. No more ads, tracking and other virtual garbage](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt)
 - [NSABlocklist](https://raw.githubusercontent.com/knapah/filterlist/main/HOST)
+- [oisd basic](https://abp.oisd.nl/basic/)
 - [oisd full](https://abp.oisd.nl/)
+- [oisd nsfw](https://abp.oisd.nl/nsfw/)
 - [Spam404](https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt)
 - [uBlock Indo](https://raw.githubusercontent.com/Hakame-kun/uBlock-Filters-Indonesia/master/uBlock%20Indo/ubindo.txt)
 - [X Files: HWS Harmful WebSites](https://raw.githubusercontent.com/gioxx/xfiles/master/siteblock.txt)
 - [X Files: NoFacebookAds](https://raw.githubusercontent.com/gioxx/xfiles/master/facebook.txt)
+- [X Files: UPD uBlock Phishing Domains](https://raw.githubusercontent.com/gioxx/xfiles/master/upd.txt)
+
+<p align="center"><strong>Source:</strong> <br>
+<a href="https://filterlists.com/">FilterLists</a> <br>
+<a href="https://github.com/badmojr/1Hosts">badmojr</a> <br>
+<a href="https://energized.pro/">Energized Protection</a> <br>
