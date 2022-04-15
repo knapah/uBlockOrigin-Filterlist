@@ -54,6 +54,7 @@
 - [Energized extension/Social](https://block.energized.pro/extensions/social/formats/filter) - Block social apps and sites.
 - [Energized extension/Regional](https://block.energized.pro/extensions/regional/formats/filter) - Regional annoyance blocking.
 - [Energized extension/Xtreme](https://block.energized.pro/extensions/xtreme/formats/filter) - Privacy protection at its best.
+- [EU US most prevalent ads & trackers ABP format for uBlockOrigin and Adguard.](https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks)
 - [facebook annoyances blocker](https://hg.adblockplus.org/facebookfilters/raw-file/default/fb_annoyances_full.txt)
 - [Fanboy's Notifications Blocking List](https://easylist-downloads.adblockplus.org/fanboy-notifications.txt)
 - [Fuck Fuckadblock](https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt)
