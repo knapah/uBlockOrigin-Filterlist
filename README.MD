@@ -77,13 +77,25 @@
 - [oisd basic](https://abp.oisd.nl/basic/)
 - [oisd full](https://abp.oisd.nl/)
 - [oisd nsfw](https://abp.oisd.nl/nsfw/)
+- [Piperun's IP-Logger Filter](https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist)
 - [Spam404](https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt)
 - [uBlock Indo](https://raw.githubusercontent.com/Hakame-kun/uBlock-Filters-Indonesia/master/uBlock%20Indo/ubindo.txt)
+- [Web Annoyances Ultralist](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt)
+- [Web Annoyances Ultralist - Ad Placeholder Filters](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/ad_placeholders.txt)
+- [Web Annoyances Ultralist - Cookie Filters](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/cookie_filters.txt)
+- [Web Annoyances Ultralist - CSS Style Modifying Filters](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/css_style_filters.txt)
+- [Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/floating_filters.txt)
+- [Web Annoyances Ultralist - Generic Filters](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/generic_filters.txt)
+- [Web Annoyances Ultralist - Modal Overlay Filters](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/modal_filters.txt)
+- [Web Annoyances Ultralist - Newsletter Subscription Filters](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/newsletter_filters.txt)
+- [Web Annoyances Ultralist - Social Filters](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/social_filters.txt)
 - [X Files: HWS Harmful WebSites](https://raw.githubusercontent.com/gioxx/xfiles/master/siteblock.txt)
 - [X Files: NoFacebookAds](https://raw.githubusercontent.com/gioxx/xfiles/master/facebook.txt)
 - [X Files: UPD uBlock Phishing Domains](https://raw.githubusercontent.com/gioxx/xfiles/master/upd.txt)
+- [YousList](https://raw.githubusercontent.com/yous/YousList/master/youslist.txt)
 
 <p align="center"><strong>Source:</strong> <br>
 <a href="https://filterlists.com/">FilterLists</a> <br>
 <a href="https://github.com/badmojr/1Hosts">badmojr</a> <br>
 <a href="https://energized.pro/">Energized Protection</a> <br>
+<a href="https://github.com/yourduskquibbles/webannoyances">yourduskquibbles</a> <br>
