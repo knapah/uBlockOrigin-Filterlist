@@ -1,5 +1,6 @@
 - [➗ Actually Legitimate URL Shortener Tool](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt)
 - [⚙️ Dandelion Sprout's Annoyances List](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList)
+- [🎫 Ad Removal List for Unusual Ads](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListForUnusualAds.txt)
 - [💊 Dandelion Sprout's Anti-Malware List](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt)
 - [🚪 Browse websites without logging in](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt)
 - [🔒 Privacy Essentials](https://raw.githubusercontent.com/yokoffing/filterlists/main/PrivacyEssentials.txt)
@@ -16,6 +17,10 @@
 - [ABPindo_noannoyance](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noannoyance.txt)
 - [ABPindo_noelemhide](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt)
 - [ABPindo+EasyList](https://easylist-downloads.adblockplus.org/abpindo+easylist.txt)
+- [Ad Domains Filter List](https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/combined-filters.txt)
+- [Adblock Filters by Gurud.ee](https://gurud.ee/ab.txt)
+- [Adblock the NSA](https://raw.githubusercontent.com/gasull/adblock-nsa/master/filters.txt)
+- [Adblock Warning Removal List](https://easylist-msie.adblockplus.org/antiadblockfilters.txt)
 - [AdBlockID](https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt)
 - [AdBlockID Plus](https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid_plus.txt)
 - [AdGuard Annoyances filter (Optimized)](https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt)
@@ -34,6 +39,9 @@
 - [Anudeep's Blacklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt)
 - [Anudeep's Blacklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt)
 - [Anudeep's Facebook Blacklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt)
+- [arapurayil's Block List (aBL) - The Main List](https://abl.arapurayil.com/filters/main.txt)
+- [arapurayil's Block List (aBL) - Addon - NSFW](https://abl.arapurayil.com/filters/nsfw.txt)
+- [arapurayil's Block List (aBL) - Addon - Social Media](https://abl.arapurayil.com/filters/social.txt)
 - [BEBASID fork](https://raw.githubusercontent.com/knapah/bebasid/master/releases/hosts)
 - [Block all well known privacy trackers](https://gnuzilla.gnu.org/filters/blacklist.txt)
 - [Block Outsider Intrusion into LAN](https://raw.githubusercontent.com/gwarser/filter-lists/master/lan-block.txt)
@@ -80,6 +88,10 @@
 - [Piperun's IP-Logger Filter](https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist)
 - [Spam404](https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt)
 - [uBlock Indo](https://raw.githubusercontent.com/Hakame-kun/uBlock-Filters-Indonesia/master/uBlock%20Indo/ubindo.txt)
+- [uniartisan's Adblock List](https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt)
+- [uniartisan's Adblock List Lite](https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt)
+- [uniartisan's Adblock List Plus](https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt)
+- [uniartisan's Privacy List](https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt)
 - [Web Annoyances Ultralist](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt)
 - [Web Annoyances Ultralist - Ad Placeholder Filters](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/ad_placeholders.txt)
 - [Web Annoyances Ultralist - Cookie Filters](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/cookie_filters.txt)
@@ -96,6 +108,9 @@
 
 <p align="center"><strong>Source:</strong> <br>
 <a href="https://filterlists.com/">FilterLists</a> <br>
+<a href="https://github.com/DandelionSprout">DandelionSprout</a> <br>
 <a href="https://github.com/badmojr/1Hosts">badmojr</a> <br>
 <a href="https://energized.pro/">Energized Protection</a> <br>
 <a href="https://github.com/yourduskquibbles/webannoyances">yourduskquibbles</a> <br>
+<a href="https://github.com/arapurayil">arapurayil</a> <br>
+<a href="https://github.com/uniartisan">uniartisan</a> <br>
