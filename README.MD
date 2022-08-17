@@ -42,7 +42,6 @@
 - [arapurayil's Block List (aBL) - The Main List](https://abl.arapurayil.com/filters/main.txt)
 - [arapurayil's Block List (aBL) - Addon - NSFW](https://abl.arapurayil.com/filters/nsfw.txt)
 - [arapurayil's Block List (aBL) - Addon - Social Media](https://abl.arapurayil.com/filters/social.txt)
-- [BEBASID fork](https://raw.githubusercontent.com/knapah/bebasid/master/releases/hosts)
 - [Block all well known privacy trackers](https://gnuzilla.gnu.org/filters/blacklist.txt)
 - [Block Outsider Intrusion into LAN](https://raw.githubusercontent.com/gwarser/filter-lists/master/lan-block.txt)
 - [Block-EU-Cookie-Shit-List](https://raw.githubusercontent.com/r4vi/block-the-eu-cookie-shit-list/master/filterlist.txt)
