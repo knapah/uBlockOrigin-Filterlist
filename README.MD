@@ -3,8 +3,8 @@
 - [🎫 Ad Removal List for Unusual Ads](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListForUnusualAds.txt)
 - [💊 Dandelion Sprout's Anti-Malware List](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt)
 - [🚪 Browse websites without logging in](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt)
-- [🔒 Privacy Essentials](https://raw.githubusercontent.com/yokoffing/filterlists/main/PrivacyEssentials.txt)
-- [🛠️ yokoffing's Annoyance List](https://raw.githubusercontent.com/yokoffing/filterlists/main/AnnoyanceList)
+- [🔒 Privacy Essentials](https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt)
+- [🛠️ yokoffing's Annoyance List](https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt)
 - [10ZiN Host Database (Full)](https://tgc.cloud/downloads/hosts.txt)
 - [1Hosts (mini)](https://o0.pages.dev/mini/adblock.txt) - mini - Level 1: unblocks a number of ads & trackers for in-app rewards, anti-AdBlock, etc.
 - [1Hosts (Lite)](https://o0.pages.dev/Lite/adblock.txt) - Lite - Level 2: set & forget, favours user experience (UX) over adblocking, balanced, recommended.
@@ -113,3 +113,4 @@
 <a href="https://github.com/yourduskquibbles/webannoyances">yourduskquibbles</a> <br>
 <a href="https://github.com/arapurayil">arapurayil</a> <br>
 <a href="https://github.com/uniartisan">uniartisan</a> <br>
+<a href="https://github.com/yokoffing/filterlists">yokoffing</a> <br>
