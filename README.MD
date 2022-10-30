@@ -3,8 +3,8 @@
 - [🎫 Ad Removal List for Unusual Ads](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListForUnusualAds.txt)
 - [💊 Dandelion Sprout's Anti-Malware List](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt)
 - [🚪 Browse websites without logging in](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt)
-- [🔒 Privacy Essentials](https://raw.githubusercontent.com/yokoffing/filterlists/main/PrivacyEssentials.txt)
-- [🛠️ yokoffing's Annoyance List](https://raw.githubusercontent.com/yokoffing/filterlists/main/AnnoyanceList)
+- [🔒 Privacy Essentials](https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt)
+- [🛠️ yokoffing's Annoyance List](https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt)
 - [10ZiN Host Database (Full)](https://tgc.cloud/downloads/hosts.txt)
 - [1Hosts (mini)](https://o0.pages.dev/mini/adblock.txt) - mini - Level 1: unblocks a number of ads & trackers for in-app rewards, anti-AdBlock, etc.
 - [1Hosts (Lite)](https://o0.pages.dev/Lite/adblock.txt) - Lite - Level 2: set & forget, favours user experience (UX) over adblocking, balanced, recommended.
@@ -39,10 +39,9 @@
 - [Anudeep's Blacklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt)
 - [Anudeep's Blacklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt)
 - [Anudeep's Facebook Blacklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt)
-- [arapurayil's Block List (aBL) - The Main List](https://abl.arapurayil.com/filters/main.txt)
-- [arapurayil's Block List (aBL) - Addon - NSFW](https://abl.arapurayil.com/filters/nsfw.txt)
-- [arapurayil's Block List (aBL) - Addon - Social Media](https://abl.arapurayil.com/filters/social.txt)
-- [Block all well known privacy trackers](https://gnuzilla.gnu.org/filters/blacklist.txt)
+- [arapurayil's Block List (aBL) - The Main List](https://raw.githubusercontent.com/arapurayil/aBL/main/filters/main.txt)
+- [arapurayil's Block List (aBL) - Addon - NSFW](https://raw.githubusercontent.com/arapurayil/aBL/main/filters/nsfw.txt)
+- [arapurayil's Block List (aBL) - Addon - Social Media](https://raw.githubusercontent.com/arapurayil/aBL/main/filters/social.txt)
 - [Block Outsider Intrusion into LAN](https://raw.githubusercontent.com/gwarser/filter-lists/master/lan-block.txt)
 - [Block-EU-Cookie-Shit-List](https://raw.githubusercontent.com/r4vi/block-the-eu-cookie-shit-list/master/filterlist.txt)
 - [ClearURLs for uBo](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
@@ -62,7 +61,7 @@
 - [Energized extension/Social](https://block.energized.pro/extensions/social/formats/filter) - Block social apps and sites.
 - [Energized extension/Regional](https://block.energized.pro/extensions/regional/formats/filter) - Regional annoyance blocking.
 - [Energized extension/Xtreme](https://block.energized.pro/extensions/xtreme/formats/filter) - Privacy protection at its best.
-- [EU US most prevalent ads & trackers ABP format for uBlockOrigin and Adguard.](https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks)
+- [EU US most prevalent ads & trackers ABP format for uBlockOrigin and Adguard.](https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks.txt)
 - [facebook annoyances blocker](https://hg.adblockplus.org/facebookfilters/raw-file/default/fb_annoyances_full.txt)
 - [Fanboy's Notifications Blocking List](https://easylist-downloads.adblockplus.org/fanboy-notifications.txt)
 - [First-party trackers host list](https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt)
