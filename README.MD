@@ -14,7 +14,6 @@
 - [ABP X Files](https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt)
 - [ABPindo](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt)
 - [ABPindo (minified)](https://easylist-downloads.adblockplus.org/abpindo-minified.txt)
-- [ABPindo_noannoyance](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noannoyance.txt)
 - [ABPindo_noelemhide](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt)
 - [ABPindo+EasyList](https://easylist-downloads.adblockplus.org/abpindo+easylist.txt)
 - [Ad Domains Filter List](https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/combined-filters.txt)
@@ -35,7 +34,7 @@
 - [Anti Anti-adblock Enhancer for AdGuard](https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt)
 - [Anti popads.net](https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt)
 - [Anti-Facebook List](https://www.fanboy.co.nz/fanboy-antifacebook.txt)
-- [Anti-paywall filters](https://raw.githubusercontent.com/llacb47/miscfilters/master/antipaywall.txt)
+- [Anti-paywall filters](https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt)
 - [Anudeep's Blacklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt)
 - [Anudeep's Blacklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt)
 - [Anudeep's Facebook Blacklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt)
@@ -44,23 +43,11 @@
 - [arapurayil's Block List (aBL) - Addon - Social Media](https://raw.githubusercontent.com/arapurayil/aBL/main/filters/social.txt)
 - [Block Outsider Intrusion into LAN](https://raw.githubusercontent.com/gwarser/filter-lists/master/lan-block.txt)
 - [Block-EU-Cookie-Shit-List](https://raw.githubusercontent.com/r4vi/block-the-eu-cookie-shit-list/master/filterlist.txt)
+- [Bypass Paywalls Clean filter](https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt)
 - [ClearURLs for uBo](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
 - [CPBL Filters for ABP & uBO](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt)
 - [Dagoll's Filters List](https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt)
 - [Dandelion Sprout's AdGuard Home Compilation List](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList.txt)
-- [EasyList without element hiding rules](https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt)
-- [Energized Spark](https://block.energized.pro/spark/formats/filter) - True lightweight protection.
-- [Energized BluGo](https://block.energized.pro/bluGo/formats/filter) - Mid range lightweight protection-go!
-- [Energized Blu](https://block.energized.pro/blu/formats/filter) - Mid range lightweight protection.
-- [Energized Basic](https://block.energized.pro/basic/formats/filter) - Balanced protection.
-- [Energized Porn](https://block.energized.pro/porn/formats/filter) - Pornware blocking.
-- [Energized Ultimate](https://block.energized.pro/ultimate/formats/filter) - Flagship protection.
-- [Energize Unified](https://block.energized.pro/unified/formats/filter) - Flagship protection with pornware blocking.
-- [Energized extension/IPs](https://block.energized.pro/extensions/ips/formats/list.txt) - Malicious IP protection.
-- [Energized extension/Porn Lite](https://block.energized.pro/extensions/porn-lite/formats/filter) - Lite pornware blocking.
-- [Energized extension/Social](https://block.energized.pro/extensions/social/formats/filter) - Block social apps and sites.
-- [Energized extension/Regional](https://block.energized.pro/extensions/regional/formats/filter) - Regional annoyance blocking.
-- [Energized extension/Xtreme](https://block.energized.pro/extensions/xtreme/formats/filter) - Privacy protection at its best.
 - [EU US most prevalent ads & trackers ABP format for uBlockOrigin and Adguard.](https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks.txt)
 - [facebook annoyances blocker](https://hg.adblockplus.org/facebookfilters/raw-file/default/fb_annoyances_full.txt)
 - [Fanboy's Notifications Blocking List](https://easylist-downloads.adblockplus.org/fanboy-notifications.txt)
@@ -79,7 +66,6 @@
 - [NoTrack Malware Blocklist](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt)
 - [NoTrack Tracker Blocklist](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt)
 - [Notracking blocklist. No more ads, tracking and other virtual garbage](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt)
-- [NSABlocklist](https://raw.githubusercontent.com/knapah/filterlist/main/HOST)
 - [oisd basic](https://abp.oisd.nl/basic/)
 - [oisd full](https://abp.oisd.nl/)
 - [oisd nsfw](https://abp.oisd.nl/nsfw/)
