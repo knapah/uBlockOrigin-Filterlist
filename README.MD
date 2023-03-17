@@ -94,7 +94,6 @@
 <a href="https://filterlists.com/">FilterLists</a> <br>
 <a href="https://github.com/DandelionSprout">DandelionSprout</a> <br>
 <a href="https://github.com/badmojr/1Hosts">badmojr</a> <br>
-<a href="https://energized.pro/">Energized Protection</a> <br>
 <a href="https://github.com/yourduskquibbles/webannoyances">yourduskquibbles</a> <br>
 <a href="https://github.com/arapurayil">arapurayil</a> <br>
 <a href="https://github.com/uniartisan">uniartisan</a> <br>
