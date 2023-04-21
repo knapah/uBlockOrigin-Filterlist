@@ -1,3 +1,10 @@
+# uBlock Origin Filter list
+
+A curated list of adblock filters for various purposes. This list includes filters for ad and tracker blocking, anti-anti-adblock, anti-Facebook, anti-paywall, and more.
+
+ ***
+
+# Filters
 - [➗ Actually Legitimate URL Shortener Tool](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt)
 - [⚙️ Dandelion Sprout's Annoyances List](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList)
 - [🎫 Ad Removal List for Unusual Ads](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListForUnusualAds.txt)
@@ -5,12 +12,11 @@
 - [🚪 Browse websites without logging in](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt)
 - [🔒 Privacy Essentials](https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt)
 - [🛠️ yokoffing's Annoyance List](https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt)
-- [10ZiN Host Database (Full)](https://tgc.cloud/downloads/hosts.txt)
-- [1Hosts (mini)](https://o0.pages.dev/mini/adblock.txt) - mini - Level 1: unblocks a number of ads & trackers for in-app rewards, anti-AdBlock, etc.
-- [1Hosts (Lite)](https://o0.pages.dev/Lite/adblock.txt) - Lite - Level 2: set & forget, favours user experience (UX) over adblocking, balanced, recommended.
-- [1Hosts (Pro)](https://o0.pages.dev/Pro/adblock.txt) - Pro - Level 3: prioritizes safety & privacy (adblocking) over UX e.g blocks graph.facebook.com.
-- [1Hosts (Xtra)](https://o0.pages.dev/Xtra/adblock.txt) - Xtra - Level 4: extremly aggressive & restrictive. Do not use unless you know what you're doing!
-- [AakList (Anti-Adblock Killer)](https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt)
+- [10ZiN Host Database (Full)](https://tgc.cloud/downloads/hosts.txt) - Complete host database (alive and dead)
+- [1Hosts (mini)](https://o0.pages.dev/mini/adblock.txt) - `Level 1`: unblocks a number of ads & trackers for in-app rewards, anti-AdBlock, etc.
+- [1Hosts (Lite)](https://o0.pages.dev/Lite/adblock.txt) - `Level 2`: set & forget, favours user experience (UX) over adblocking, balanced, recommended.
+- [1Hosts (Pro)](https://o0.pages.dev/Pro/adblock.txt) - `Level 3`: prioritizes safety & privacy (adblocking) over UX e.g blocks graph.facebook.com.
+- [1Hosts (Xtra)](https://o0.pages.dev/Xtra/adblock.txt) - `Level 4`: extremly aggressive & restrictive. Do not use unless you know what you're doing!
 - [ABP X Files](https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt)
 - [ABPindo](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt)
 - [ABPindo (minified)](https://easylist-downloads.adblockplus.org/abpindo-minified.txt)
@@ -33,7 +39,6 @@
 - [AdVoid.core](https://raw.githubusercontent.com/igorskyflyer/ad-void/main/AdVoid.Core.txt)
 - [Anti Anti-adblock Enhancer for AdGuard](https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt)
 - [Anti popads.net](https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt)
-- [Anti-Facebook List](https://www.fanboy.co.nz/fanboy-antifacebook.txt)
 - [Anti-paywall filters](https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt)
 - [Anudeep's Blacklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt)
 - [Anudeep's Blacklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt)
@@ -41,7 +46,6 @@
 - [arapurayil's Block List (aBL) - The Main List](https://raw.githubusercontent.com/arapurayil/aBL/main/filters/main.txt)
 - [arapurayil's Block List (aBL) - Addon - NSFW](https://raw.githubusercontent.com/arapurayil/aBL/main/filters/nsfw.txt)
 - [arapurayil's Block List (aBL) - Addon - Social Media](https://raw.githubusercontent.com/arapurayil/aBL/main/filters/social.txt)
-- [Block Outsider Intrusion into LAN](https://raw.githubusercontent.com/gwarser/filter-lists/master/lan-block.txt)
 - [Block-EU-Cookie-Shit-List](https://raw.githubusercontent.com/r4vi/block-the-eu-cookie-shit-list/master/filterlist.txt)
 - [Bypass Paywalls Clean filter](https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt)
 - [ClearURLs for uBo](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
@@ -55,6 +59,7 @@
 - [Fuck Fuckadblock](https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt)
 - [GoodbyeAds-AdBlock-Filter](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt)
 - [GoodbyeAds-YouTube-AdBlock-Filter](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt)
+- [HaGeZi's Pro++ DNS Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt) - Aggressive cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".
 - [Lightswitch05's ads-and-tracking-extended.txt](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt)
 - [Lightswitch05's amp-hosts-extended.txt](https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt)
 - [Lightswitch05's dating-services-extended.txt](https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt)
