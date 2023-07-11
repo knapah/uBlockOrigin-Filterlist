@@ -53,6 +53,7 @@ A curated list of adblock filters for various purposes. This list includes filte
 - [CPBL Filters for ABP & uBO](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt)
 - [Dagoll's Filters List](https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt)
 - [Dandelion Sprout's AdGuard Home Compilation List](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList.txt)
+-[EU US ads&tracking networks MV3 (third-party blocking only)](https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt)
 - [facebook annoyances blocker](https://hg.adblockplus.org/facebookfilters/raw-file/default/fb_annoyances_full.txt)
 - [Fanboy's Notifications Blocking List](https://easylist-downloads.adblockplus.org/fanboy-notifications.txt)
 - [First-party trackers host list](https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt)
