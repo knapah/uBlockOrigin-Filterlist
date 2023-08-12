@@ -29,7 +29,7 @@ A curated list of adblock filters for various purposes. This list includes filte
 - [AdBlockID Plus](https://cdn.jsdelivr.net/gh/realodix/AdBlockID@latest/dist/adblockid_plus.adfl.txt)
 - [AdGuard Annoyances filter (Optimized)](https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt)
 - [AdGuard Base filter + EasyList (Optimized)](https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt)
-- [AdGuard CNAME disguised trackers list](https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt)
+- [AdGuard CNAME disguised ads list](https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads.txt)
 - [AdGuard DNS filter](https://filters.adtidy.org/windows/filters/15.txt)
 - [AdGuard Mobile Ads filter (Optimized)](https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt)
 - [AdGuard Social Media filter (Optimized)](https://filters.adtidy.org/extension/ublock/filters/4_optimized.txt)
