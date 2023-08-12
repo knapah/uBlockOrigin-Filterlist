@@ -17,7 +17,6 @@ A curated list of adblock filters for various purposes. This list includes filte
 - [1Hosts (Lite)](https://o0.pages.dev/Lite/adblock.txt) - `Level 2`: set & forget, favours user experience (UX) over adblocking, balanced, recommended.
 - [1Hosts (Pro)](https://o0.pages.dev/Pro/adblock.txt) - `Level 3`: prioritizes safety & privacy (adblocking) over UX e.g blocks graph.facebook.com.
 - [1Hosts (Xtra)](https://o0.pages.dev/Xtra/adblock.txt) - `Level 4`: extremly aggressive & restrictive. Do not use unless you know what you're doing!
-- [ABP X Files](https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt)
 - [ABPindo](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt)
 - [ABPindo (minified)](https://easylist-downloads.adblockplus.org/abpindo-minified.txt)
 - [ABPindo_noelemhide](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt)
@@ -69,6 +68,7 @@ A curated list of adblock filters for various purposes. This list includes filte
 - [Lightswitch05's hate-and-junk-extended.txt](https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt)
 - [Lightswitch05's tracking-aggressive-extended.txt](https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt)
 - [My filters list](https://raw.githubusercontent.com/gwarser/filter-lists/master/my-filters.txt)
+- [NoAds X Files](https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt)
 - [NoCoin Filter List](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt)
 - [NoTrack Malware Blocklist](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt)
 - [NoTrack Tracker Blocklist](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt)
