@@ -13,6 +13,7 @@ A curated list of adblock filters for various purposes. This list includes filte
 - [🔒 Privacy Essentials](https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt)
 - [🛠️ yokoffing's Annoyance List](https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt)
 - [10ZiN Host Database (Full)](https://tgc.cloud/downloads/hosts.txt) - Complete host database (alive and dead)
+- [10ZiN Host Database (Alive)](https://tgc.cloud/downloads/archive/hosts.alive.txt) - Domains from hosts.txt that resolved and were active (alive)
 - [1Hosts (mini)](https://o0.pages.dev/mini/adblock.txt) - `Level 1`: unblocks a number of ads & trackers for in-app rewards, anti-AdBlock, etc.
 - [1Hosts (Lite)](https://o0.pages.dev/Lite/adblock.txt) - `Level 2`: set & forget, favours user experience (UX) over adblocking, balanced, recommended.
 - [1Hosts (Pro)](https://o0.pages.dev/Pro/adblock.txt) - `Level 3`: prioritizes safety & privacy (adblocking) over UX e.g blocks graph.facebook.com.
@@ -52,7 +53,7 @@ A curated list of adblock filters for various purposes. This list includes filte
 - [CPBL Filters for ABP & uBO](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt)
 - [Dagoll's Filters List](https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt)
 - [Dandelion Sprout's AdGuard Home Compilation List](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList.txt)
--[EU US ads&tracking networks MV3 (third-party blocking only)](https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt)
+- [EU US ads&tracking networks MV3 (third-party blocking only)](https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt)
 - [facebook annoyances blocker](https://hg.adblockplus.org/facebookfilters/raw-file/default/fb_annoyances_full.txt)
 - [Fanboy's Notifications Blocking List](https://easylist-downloads.adblockplus.org/fanboy-notifications.txt)
 - [First-party trackers host list](https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt)
@@ -73,9 +74,9 @@ A curated list of adblock filters for various purposes. This list includes filte
 - [NoTrack Malware Blocklist](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt)
 - [NoTrack Tracker Blocklist](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt)
 - [Notracking blocklist. No more ads, tracking and other virtual garbage](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt)
-- [oisd basic](https://abp.oisd.nl/basic/)
-- [oisd full](https://abp.oisd.nl/)
-- [oisd nsfw](https://abp.oisd.nl/nsfw/)
+- [oisd basic](https://small.oisd.nl/) - Mainly focusses on blocking ads
+- [oisd full](https://big.oisd.nl/) - Blocks Ads, (Mobile) App Ads, Phishing, Malvertising, Malware, Spyware, Ransomware, CryptoJacking, Scam, ... Telemetry/Analytics/Tracking (Where not needed for proper functionality)
+- [oisd nsfw](https://nsfw.oisd.nl/) - Blocks porn/shock/adult sites
 - [Piperun's IP-Logger Filter](https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist)
 - [Spam404](https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt)
 - [uBlock Indo](https://raw.githubusercontent.com/Hakame-kun/uBlock-Filters-Indonesia/master/uBlock%20Indo/ubindo.txt)
@@ -101,6 +102,7 @@ A curated list of adblock filters for various purposes. This list includes filte
 <a href="https://filterlists.com/">FilterLists</a> <br>
 <a href="https://github.com/DandelionSprout">DandelionSprout</a> <br>
 <a href="https://github.com/badmojr/1Hosts">badmojr</a> <br>
+<a href="https://oisd.nl/">oisd</a> <br>
 <a href="https://github.com/yourduskquibbles/webannoyances">yourduskquibbles</a> <br>
 <a href="https://github.com/arapurayil">arapurayil</a> <br>
 <a href="https://github.com/uniartisan">uniartisan</a> <br>
