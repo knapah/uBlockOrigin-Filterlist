@@ -48,7 +48,7 @@ A curated list of adblock filters for various purposes. This list includes filte
 - [arapurayil's Block List (aBL) - Addon - NSFW](https://raw.githubusercontent.com/arapurayil/aBL/main/filters/nsfw.txt)
 - [arapurayil's Block List (aBL) - Addon - Social Media](https://raw.githubusercontent.com/arapurayil/aBL/main/filters/social.txt)
 - [Block-EU-Cookie-Shit-List](https://raw.githubusercontent.com/r4vi/block-the-eu-cookie-shit-list/master/filterlist.txt)
-- [Bypass Paywalls Clean filter](https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt)
+- [Bypass Paywalls Clean filter](https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?file=bpc-paywall-filter.txt)
 - [ClearURLs for uBo](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
 - [CPBL Filters for ABP & uBO](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt)
 - [Dagoll's Filters List](https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt)
