@@ -68,7 +68,6 @@ A curated list of adblock filters for various purposes. This list includes filte
 - [Lightswitch05's facebook-extended.txt](https://www.github.developerdan.com/hosts/lists/facebook-extended.txt)
 - [Lightswitch05's hate-and-junk-extended.txt](https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt)
 - [Lightswitch05's tracking-aggressive-extended.txt](https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt)
-- [My filters list](https://raw.githubusercontent.com/gwarser/filter-lists/master/my-filters.txt)
 - [NoAds X Files](https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt)
 - [NoCoin Filter List](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt)
 - [NoTrack Malware Blocklist](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt)
