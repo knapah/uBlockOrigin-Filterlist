@@ -14,10 +14,9 @@ A curated list of adblock filters for various purposes. This list includes filte
 - [🛠️ yokoffing's Annoyance List](https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt)
 - [10ZiN Host Database (Full)](https://tgc.cloud/downloads/hosts.txt) - Complete host database (alive and dead)
 - [10ZiN Host Database (Alive)](https://tgc.cloud/downloads/archive/hosts.alive.txt) - Domains from hosts.txt that resolved and were active (alive)
-- [1Hosts (mini)](https://o0.pages.dev/mini/adblock.txt) - `Level 1`: unblocks a number of ads & trackers for in-app rewards, anti-AdBlock, etc.
-- [1Hosts (Lite)](https://o0.pages.dev/Lite/adblock.txt) - `Level 2`: set & forget, favours user experience (UX) over adblocking, balanced, recommended.
-- [1Hosts (Pro)](https://o0.pages.dev/Pro/adblock.txt) - `Level 3`: prioritizes safety & privacy (adblocking) over UX e.g blocks graph.facebook.com.
-- [1Hosts (Xtra)](https://o0.pages.dev/Xtra/adblock.txt) - `Level 4`: extremly aggressive & restrictive. Do not use unless you know what you're doing!
+- [1Hosts (Lite)](https://o0.pages.dev/Lite/adblock.txt) - `Level 1`: set & forget, favours user experience (UX) over adblocking, balanced, recommended.
+- [1Hosts (Pro)](https://o0.pages.dev/Pro/adblock.txt) - `Level 2`: prioritizes safety & privacy (adblocking) over UX e.g blocks graph.facebook.com.
+- [1Hosts (Xtra)](https://o0.pages.dev/Xtra/adblock.txt) - `Level 3`: extremly aggressive & restrictive. Do not use unless you know what you're doing!
 - [ABPindo](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt)
 - [ABPindo (minified)](https://easylist-downloads.adblockplus.org/abpindo-minified.txt)
 - [ABPindo_noelemhide](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt)
@@ -41,8 +40,8 @@ A curated list of adblock filters for various purposes. This list includes filte
 - [Anti popads.net](https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt)
 - [Anti-paywall filters](https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt)
 - [antipopads:re](https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/filter.txt)
-- [Anudeep's Blacklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt)
-- [Anudeep's Blacklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt)
+- [Anudeep's Blacklist (Coin Miner)](https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt) - This host file was created when JavaScript miners were added to torrent sites. Most of the domain in this file are still active today
+- [Anudeep's Blacklist (Adserver)](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt) - A reliable host file containing advertising domains, trackers, malwares and other unsafe domains.
 - [Anudeep's Facebook Blacklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt)
 - [arapurayil's Block List (aBL) - The Main List](https://raw.githubusercontent.com/arapurayil/aBL/main/filters/main.txt)
 - [arapurayil's Block List (aBL) - Addon - NSFW](https://raw.githubusercontent.com/arapurayil/aBL/main/filters/nsfw.txt)
@@ -53,15 +52,15 @@ A curated list of adblock filters for various purposes. This list includes filte
 - [CPBL Filters for ABP & uBO](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt)
 - [Dagoll's Filters List](https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt)
 - [Dandelion Sprout's AdGuard Home Compilation List](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList.txt)
-- [EU US ads&tracking networks MV3 (third-party blocking only)](https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt)
-- [facebook annoyances blocker](https://hg.adblockplus.org/facebookfilters/raw-file/default/fb_annoyances_full.txt)
+- [EU US ads&tracking networks MV3 (third-party blocking only)](https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/refs/heads/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt)
 - [Fanboy's Notifications Blocking List](https://easylist-downloads.adblockplus.org/fanboy-notifications.txt)
 - [First-party trackers host list](https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt)
+- [FMHY Unsafe sites filterlist - Basic](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic.txt) - locks malicious sites listed in the [fmhy unsafe sites page](https://fmhy.net/unsafesites)
+- [FMHY Unsafe sites filterlist - Plus](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt) - Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
 - [Fuck Fuckadblock](https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt)
 - [GoodbyeAds-AdBlock-Filter](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt)
 - [GoodbyeAds-YouTube-AdBlock-Filter](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt)
 - [HaGeZi's Pro++ DNS Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt) - Aggressive cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".
-- [Kees1958 most used EU US ad & tracking networks](https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV2_most_common_ad%2Btracking_networks)
 - [Lightswitch05's ads-and-tracking-extended.txt](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt)
 - [Lightswitch05's amp-hosts-extended.txt](https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt)
 - [Lightswitch05's dating-services-extended.txt](https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt)
