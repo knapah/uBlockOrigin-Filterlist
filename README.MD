@@ -55,7 +55,7 @@ A curated list of adblock filters for various purposes. This list includes filte
 - [EU US ads&tracking networks MV3 (third-party blocking only)](https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/refs/heads/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt)
 - [Fanboy's Notifications Blocking List](https://easylist-downloads.adblockplus.org/fanboy-notifications.txt)
 - [First-party trackers host list](https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt)
-- [FMHY Unsafe sites filterlist - Basic](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic.txt) - locks malicious sites listed in the [fmhy unsafe sites page](https://fmhy.net/unsafesites)
+- [FMHY Unsafe sites filterlist - Basic](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic.txt) - Blocks malicious sites listed in the [fmhy unsafe sites page](https://fmhy.net/unsafesites)
 - [FMHY Unsafe sites filterlist - Plus](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt) - Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
 - [Fuck Fuckadblock](https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt)
 - [GoodbyeAds-AdBlock-Filter](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt)
