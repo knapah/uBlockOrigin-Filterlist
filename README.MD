@@ -52,6 +52,14 @@ A curated list of adblock filters for various purposes. This list includes filte
 - [CPBL Filters for ABP & uBO](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt)
 - [Dagoll's Filters List](https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt)
 - [Dandelion Sprout's AdGuard Home Compilation List](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList.txt)
+- [Energized - Spark](https://energized.pro/spark/adblock.txt) - Lightwight, essential protection.
+- [Energized - Blu](https://energized.pro/blu/adblock.txt) - Balanced, extended protection.
+- [Energized - Ultimate](https://energized.pro/ultimate/adblock.txt) - Comprehensive, full protection.
+- [Energized - Extension Antipopads-re](https://energized.pro/antipopads-re/adblock.txt) - Advanced protection against intrusive pop ads.
+- [Energized - Extension Extreme](https://energized.pro/extreme/adblock.txt) - Enhanced privacy with aggressive filtering.
+- [Energized - Extension NSFW](https://energized.pro/nsfw/adblock.txt) - Strict filtering of nsfw content.
+- [Energized - Extension Regional](https://energized.pro/regional/adblock.txt) - Regional filtering.
+- [Energized - Extension Social](https://energized.pro/social/adblock.txt) - Comprehensive social media blocking.
 - [EU US ads&tracking networks MV3 (third-party blocking only)](https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/refs/heads/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt)
 - [Fanboy's Notifications Blocking List](https://easylist-downloads.adblockplus.org/fanboy-notifications.txt)
 - [First-party trackers host list](https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt)
