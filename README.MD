@@ -12,11 +12,8 @@ A curated list of adblock filters for various purposes. This list includes filte
 - [🚪 Browse websites without logging in](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt)
 - [🔒 Privacy Essentials](https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt)
 - [🛠️ yokoffing's Annoyance List](https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt)
-- [10ZiN Host Database (Full)](https://tgc.cloud/downloads/hosts.txt) - Complete host database (alive and dead)
-- [10ZiN Host Database (Alive)](https://tgc.cloud/downloads/archive/hosts.alive.txt) - Domains from hosts.txt that resolved and were active (alive)
-- [1Hosts (Lite)](https://o0.pages.dev/Lite/adblock.txt) - `Level 1`: set & forget, favours user experience (UX) over adblocking, balanced, recommended.
-- [1Hosts (Pro)](https://o0.pages.dev/Pro/adblock.txt) - `Level 2`: prioritizes safety & privacy (adblocking) over UX e.g blocks graph.facebook.com.
-- [1Hosts (Xtra)](https://o0.pages.dev/Xtra/adblock.txt) - `Level 3`: extremly aggressive & restrictive. Do not use unless you know what you're doing!
+- [1Hosts (Lite)](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt) - Balanced version - set & forget, prioritizes smooth UX, ideal for general users.
+- [1Hosts (Xtra)](https://github.com/badmojr/1Hosts/raw/refs/heads/master/Xtra/adblock.txt) - Aggressive version - maximum blocking against emerging privacy threats. May (occasionally) disrupt legit sites or services.
 - [ABPindo](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt)
 - [ABPindo (minified)](https://easylist-downloads.adblockplus.org/abpindo-minified.txt)
 - [ABPindo_noelemhide](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt)
@@ -52,14 +49,6 @@ A curated list of adblock filters for various purposes. This list includes filte
 - [CPBL Filters for ABP & uBO](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt)
 - [Dagoll's Filters List](https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt)
 - [Dandelion Sprout's AdGuard Home Compilation List](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList.txt)
-- [Energized - Spark](https://energized.pro/spark/adblock.txt) - Lightwight, essential protection.
-- [Energized - Blu](https://energized.pro/blu/adblock.txt) - Balanced, extended protection.
-- [Energized - Ultimate](https://energized.pro/ultimate/adblock.txt) - Comprehensive, full protection.
-- [Energized - Extension Antipopads-re](https://energized.pro/antipopads-re/adblock.txt) - Advanced protection against intrusive pop ads.
-- [Energized - Extension Extreme](https://energized.pro/extreme/adblock.txt) - Enhanced privacy with aggressive filtering.
-- [Energized - Extension NSFW](https://energized.pro/nsfw/adblock.txt) - Strict filtering of nsfw content.
-- [Energized - Extension Regional](https://energized.pro/regional/adblock.txt) - Regional filtering.
-- [Energized - Extension Social](https://energized.pro/social/adblock.txt) - Comprehensive social media blocking.
 - [EU US ads&tracking networks MV3 (third-party blocking only)](https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/refs/heads/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt)
 - [Fanboy's Notifications Blocking List](https://easylist-downloads.adblockplus.org/fanboy-notifications.txt)
 - [First-party trackers host list](https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt)
